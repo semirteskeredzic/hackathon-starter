@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 semirteskeredzic/hackathon-starter is built on the following main stack:
+
 - [Stripe](https://stripe.com) – Payment Services
 - [Twilio](http://www.twilio.com) – Voice and SMS
 - [Mocha](http://mochajs.org/) – Javascript Testing Framework
@@ -30,11 +31,13 @@ semirteskeredzic/hackathon-starter is built on the following main stack:
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 semirteskeredzic/hackathon-starter is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/97/eW6tXeq3.png' alt='Stripe'/> [Stripe](https://stripe.com) – Payment Services
 - <img width='25' height='25' src='https://img.stackshare.io/service/130/VrwpNfjh_400x400.png' alt='Twilio'/> [Twilio](http://www.twilio.com) – Voice and SMS
 - <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
@@ -63,14 +66,15 @@ semirteskeredzic/hackathon-starter is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [semirteskeredzic/hackathon-starter](https://github.com/semirteskeredzic/hackathon-starter)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|61<br/>Tools used|11/09/23 <br/>Report generated|
+|62<br/>Tools used|01/04/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -363,15 +367,16 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (29)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (30)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (29)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (30)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
 |[@fortawesome/fontawesome-free](https://www.npmjs.com/@fortawesome/fontawesome-free)|v6.1.1|03/26/22|Sahat Yalkabov |CC-BY-4.0,OFL-1.1,MIT|N/A|
 |[@octokit/rest](https://www.npmjs.com/@octokit/rest)|v18.12.0|03/26/22|Sahat Yalkabov |MIT|N/A|
 |[body-parser](https://www.npmjs.com/body-parser)|v1.19.2|03/26/22|Sahat Yalkabov |MIT|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v2.4.2|03/26/22|Sahat Yalkabov |MIT|N/A|
 |[cheerio](https://www.npmjs.com/cheerio)|v1.0.0|03/26/22|Sahat Yalkabov |MIT|N/A|
 |[compression](https://www.npmjs.com/compression)|v1.7.4|03/26/22|Sahat Yalkabov |MIT|N/A|
 |[connect-mongo](https://www.npmjs.com/connect-mongo)|v4.6.0|03/26/22|Sahat Yalkabov |MIT|N/A|
@@ -402,4 +407,4 @@ Full tech stack [here](/techstack.md)
 <br/>
 <div align='center'>
 
-Generated via [Stack File](https://github.com/apps/stack-file)
+Generated via [Stack File](https://github.com/marketplace/stack-file)
